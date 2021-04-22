@@ -18,4 +18,6 @@ As a user of the application you should be able to:
 2.Click on a single photo to expand it and also view the details of the photo.
 3.The photo details  appear on a modal within the same route as the main page.
 4.Search for different categories of photos. (ie. Ladies wear, Mens wear)
+5.Copy a link to the photo to share with your  friends.
+6.View photos based on the location they were taken.
 
