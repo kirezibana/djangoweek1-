@@ -21,4 +21,5 @@ As a user of the application you should be able to:
 5.Copy a link to the photo to share with your  friends.
 6.View photos based on the location they were taken.
 
-SetUp / Installation Requirements Prerequisites python3.6 pip virtualenv Cloning In your terminal:
+License Copyright (c) 2021 kirezi bana hortense
+
