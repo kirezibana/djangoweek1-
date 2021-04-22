@@ -14,5 +14,6 @@ User Stories These are the behaviours/features that the application implements f
 
 As a user of the application you should be able to:
 
-View different photos that interest you.
-
+1.View different photos that interest you.
+2.Click on a single photo to expand it and also view the details of the photo.
+3.
