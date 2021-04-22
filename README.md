@@ -17,3 +17,5 @@ As a user of the application you should be able to:
 1.View different photos that interest you.
 2.Click on a single photo to expand it and also view the details of the photo.
 3.The photo details  appear on a modal within the same route as the main page.
+4.Search for different categories of photos. (ie. Ladies wear, Mens wear)
+
