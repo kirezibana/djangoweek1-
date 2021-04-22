@@ -23,4 +23,4 @@ As a user of the application you should be able to:
 
 License Copyright (c) 2021 kirezi bana hortense
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge,
